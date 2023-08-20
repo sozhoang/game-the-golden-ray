@@ -2,7 +2,7 @@
 
 Sử dụng Unity engine
 
-![image-20230820111849378](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230820111849378.png)
+![image-20230820111849378](Images/32.png)
 
 ## Gameplay
 
@@ -20,5 +20,5 @@ hai đầu của một sợi dây - "vũ khí". Người chơi phải kết hợ
 
 Các thông số vật lý của các đối tượng trên đều có thể điều chỉnh.
 
-![image-20230820112655399](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20230820112655399.png)
+![image-20230820112655399](Images/38.png)
 
